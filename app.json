@@ -1,4 +1,4 @@
-{
+﻿{
   "pages":[
     "pages/index/index",
     "pages/logs/logs"
@@ -21,7 +21,7 @@
       },
       {
         "pagePath": "pages/logs/logs",
-        "text": "报名中心"
+        "text": "dsds"
       }
     ]
   }
